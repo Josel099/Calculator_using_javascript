@@ -4,7 +4,6 @@ This is  a web calculator .
 It is developed by Html,Css,Javascript.
 link to the web_calculator :  https://josel099.github.io/Web-Calculator-using-javascript/
 
-The GUI is created by Html,Css. but the functionalities in it ,are created by the java script.
 
 
 

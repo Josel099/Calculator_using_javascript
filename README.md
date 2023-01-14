@@ -6,5 +6,3 @@ link to the web_calculator :  https://josel099.github.io/Web-Calculator-using-ja
 
 
 
-
-Please make sure to update tests as appropriate.

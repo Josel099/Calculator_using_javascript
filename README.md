@@ -6,7 +6,7 @@ This is a simple web calculator created using JavaScript, HTML, and CSS.
 
 - Addition, subtraction, multiplication, and division operations
 - Clear button to reset the calculator
-- Responsive design
+
 
 ## Usage
 

@@ -1,9 +1,15 @@
 # Web Calculator
 
-This is  a web calculator .
-Created using  Html,Css,Javascript.
-It perform basic operations addition,
-link to the web_calculator :  https://josel099.github.io/Web-Calculator-using-javascript/
+This is a simple web calculator created using JavaScript, HTML, and CSS. 
 
+## Features
+
+- Addition, subtraction, multiplication, and division operations
+- Clear button to reset the calculator
+- Responsive design
+
+## Usage
+
+To use the calculator, simply enter the first operand, select the operation, enter the second operand, and click on the equals button to see the result.
 
 
